@@ -1,0 +1,3 @@
+Ce fichier .svg est à ouvrir avec InkScape :
+
+https://inkscape.org/release/inkscape-0.92.4/
